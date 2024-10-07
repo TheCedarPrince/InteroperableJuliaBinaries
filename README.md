@@ -100,7 +100,7 @@ If you get it working, could you let me know?
 # Comments
 
 
-- Please see a greater discussion here: 
+- Please see a greater discussion here: https://discourse.julialang.org/t/pushing-the-limits-of-small-binary-creation/120989 for more details on juliac
 
 - Special thanks to @terasakisatoshi for their thoughts on juliac as well as their nice test repo and guide as well found here: https://github.com/terasakisatoshi/libcalcpi_juliac (I adapted their tutorial to mine here)
 
