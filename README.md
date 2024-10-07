@@ -104,7 +104,7 @@ If you get it working, could you let me know?
 
 - Special thanks to @terasakisatoshi for their thoughts on juliac as well as their nice test repo and guide as well found here: https://github.com/terasakisatoshi/libcalcpi_juliac (I adapted their tutorial to mine here)
 
-- Thanks to @jbytecode for their VERY inspirational juliac blog post here: https://jbytecode.github.io/juliac/
+- Thanks to [@jbytecode](https://github.com/jbytecode) for their VERY inspirational juliac blog post here: https://jbytecode.github.io/juliac/
 
 - Thanks to: 
 
