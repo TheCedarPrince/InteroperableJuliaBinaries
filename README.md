@@ -86,6 +86,34 @@ res$output
 
 Which should return $4$!
 
+# Other Thoughts
+
+I am very eager to see how juliac could start becoming the computational backend for a lot of other languages that may depend on C/C++/Fortran sorts of backends in their software packages.
+I think there is a very bright future here!
+
+# Challenge Mode
+
+For a hard challenge, see the kernel smoothing script in `ksmooth.jl` that we have been trying to get working to create a kernel smoothing binary. 
+We know the Julia implementation is correct for kernel smoothing but the typing isn't quite perfect yet for calling into this binary from Julia yet as it continues to fail (see the `call_ksmooth.jl` for our current invocation).
+If you get it working, could you let me know?
+
 # Comments
 
+
 - Please see a greater discussion here: 
+
+- Special thanks to @terasakisatoshi for their thoughts on juliac as well as their nice test repo and guide as well found here: https://github.com/terasakisatoshi/libcalcpi_juliac (I adapted their tutorial to mine here)
+
+- Thanks to @jbytecode for their VERY inspirational juliac blog post here: https://jbytecode.github.io/juliac/
+
+- Thanks to: 
+
+  * @rkillick
+
+  * @asinghvi17
+
+  * @aviks
+
+  * @mortenpi
+
+  * For hacking with me on this for about 5+ hours on this the other night! Was super fun and inspiring! 
