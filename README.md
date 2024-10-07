@@ -108,12 +108,12 @@ If you get it working, could you let me know?
 
 - Thanks to: 
 
-  * @rkillick
+  * [@rkillick](https://github.com/rkillick)
 
-  * @asinghvi17
+  * [@asinghvi17](https://github.com/asinghvi17)
 
-  * @aviks
+  * [@aviks](https://github.com/aviks)
 
-  * @mortenpi
+  * [@mortenpi](https://github.com/mortenpi)
 
   * For hacking with me on this for about 5+ hours on this the other night! Was super fun and inspiring! 
